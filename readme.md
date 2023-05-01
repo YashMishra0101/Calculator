@@ -20,7 +20,7 @@ This is a simple calculator practice project created using HTML, Tailwind CSS, a
 
 ## Getting Started
 
-- Clone the repository: https://github.com/YashMishra0101/Calculator
+- Clone the repository to your local machine using the command: https://github.com/YashMishra0101/Calculator
 
 ## Contributing
 
