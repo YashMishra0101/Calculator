@@ -30,7 +30,7 @@ This is a simple calculator practice project created using HTML, Tailwind CSS, a
     
 ## Contributing 🤝
 
-If you would like to contribute to this weather app project, please open an issue or submit a pull request. All contributions are welcome!
+If you would like to contribute to in this , please open an issue or submit a pull request. All contributions are welcome!
 
 
 ## Contact 📞
