@@ -1,10 +1,10 @@
-# Calculator Practice Project
+# Calculator Practice Project 🧮
 
 <img src="./calc.png">
 
 This is a simple calculator practice project created using HTML, Tailwind CSS, and JavaScript. The UI of the calculator is designed using Tailwind CSS, which gives it a sleek and modern look.
 
-## Features
+## Features 🚀
 
 - Addition, subtraction, multiplication, and division operations
 - Percentage calculation
@@ -12,24 +12,28 @@ This is a simple calculator practice project created using HTML, Tailwind CSS, a
 - Supports decimals and negative numbers
 - Keyboard support (numbers, operators, and enter key for calculation)
 
-## Technologies Used
+## Technologies Used 🛠️
 
 - HTML
 - Tailwind CSS
 - JavaScript
 
-## Getting Started
+## How to Use 📖
 
 - Clone the repository to your local machine using the command: git clone https://github.com/YashMishra0101/Calculator
 
-   Note: This project uses Tailwind CSS, so you need to run npm start to compile the CSS files before opening the HTML file in your browser.
+-   Note: This project uses Tailwind CSS, so you need to run npm start to compile the CSS files before opening the HTML file in your browser.
 
-## Contributing
+-   To run the project locally, navigate to the project directory in your terminal and run the following command:
+    
+    npm start
+    
+## Contributing 🤝
 
 If you would like to contribute to this weather app project, please open an issue or submit a pull request. All contributions are welcome!
 
 
-## Contact
+## Contact 📞
 
 If you have any questions or suggestions, please feel free to contact me on:
 
