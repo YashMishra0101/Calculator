@@ -20,7 +20,9 @@ This is a simple calculator practice project created using HTML, Tailwind CSS, a
 
 ## Getting Started
 
-- Clone the repository to your local machine using the command: https://github.com/YashMishra0101/Calculator
+- Clone the repository to your local machine using the command: git clone https://github.com/YashMishra0101/Calculator
+
+Note: This project uses Tailwind CSS, so you need to run npm start to compile the CSS files before opening the HTML file in your browser.
 
 ## Contributing
 
