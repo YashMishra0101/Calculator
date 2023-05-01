@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+    width:2.8rem;
+    height:2.8rem;
+    place-self: center;
+    padding: 0.5rem;
+    border-radius:1rem;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+
+}
+
+button:hover{
+    transform: scale(1.2);
+}
+
+.color-green{
+    background: #6BD539;
+}
+

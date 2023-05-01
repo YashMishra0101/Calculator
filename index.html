@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <div class="wrapper w-[100vw] h-[100vh] bg-gradient-to-r from-teal-500 to-purple-500 bg-opacity-30 flex justify-center items-center">
+
+        <div class="calculator-operation grid grid-cols-4 border-2 rounded-lg w-[24rem] h-[23rem] p-2 select-none bg-gradient-to-r from-pink-500 to-indigo-500 bg-opacity-10">
+
+            <input data-display-value type="text" placeholder="0" class="display-value col-span-full place-self-end  h-10 text-teal-500 rounded-sm w-[23rem] text-right pr-4 mb-4 font-mono text-2xl outline-none ">
+            <button class="button-operator color-green">AC</button>
+            <button class="button-operator color-green">DEL</button>
+            <button class="button-operator color-green">%</button>
+            <button class="button-operator color-green">/</button>
+            <button class="numbers">7</button>
+            <button class="numbers">8</button>
+            <button class="numbers">9</button>
+            <button class="button-operator color-green">*</button>
+            <button class="numbers">4</button>
+            <button class="numbers">5</button>
+            <button class="numbers">6</button>
+            <button class="button-operator color-green">-</button>
+            <button class="numbers">1</button>
+            <button class="numbers">2</button>
+            <button class="numbers">3</button>
+            <button class="button-operator color-green">+</button>
+            <button class="numbers">00</button>
+            <button class="numbers">0</button>
+            <button class="button-operator">.</button>
+            <button class="equal-to-button color-green">=</button>
+
+        </div>
+       
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
