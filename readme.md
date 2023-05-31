@@ -1,6 +1,6 @@
 # Calculator Practice Project 🧮
 
-<img src="./calc.png">
+![Screenshot](./calc.png)
 
 This is a simple calculator practice project created using HTML, Tailwind CSS, and JavaScript. The UI of the calculator is designed using Tailwind CSS, which gives it a sleek and modern look.
 
